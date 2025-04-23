@@ -1,0 +1,7 @@
+streamlit
+langchain-openai
+langchain-community
+PyMuPDF
+gtts
+deep-translator
+openai
